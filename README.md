@@ -1,31 +1,48 @@
-# Create React App
+# Fruit Wala
 
-This directory is a brief example of a [Create React App](https://github.com/facebook/create-react-app) site that can be deployed to Vercel with zero configuration.
+Fruit Wala is a React project that allows users to explore and purchase a variety of fruits and vegetables online.
 
-## Deploy Your Own
+## Features
 
-Deploy your own Create React App project with Vercel.
+- View a list of fruits and vegetables with details such as name, price, rating, and category.
+- Like and dislike products to create a personalized wishlist.
+- Add products to the shopping cart for a seamless checkout experience.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/vercel/tree/main/examples/create-react-app&template=create-react-app)
+## Technologies Used
 
-_Live Example: https://create-react-template.vercel.app/_
+- React
+- SCSS (Sass)
+- React Icons
+- React Router DOM
 
-## Available Scripts
+## Installation
 
-In the project directory, you can run:
+1. Clone the repository:
 
-### `npm start`
+   ```bash
+   git clone https://github.com/enrituraj/FruitWala.git
 
-Runs the app in the development mode. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+2. Change into the project directory 
+   ```bash
+   cd FruitWala
+  
+3. Install dependencies
+   ```bash 
+   npm install
 
-The page will reload when you make changes. You may also see any lint errors in the console.
+4. Start the development server
+   ```bash
+   npm start
 
-### `npm test`
+## Contact
 
-Launches the test runner in the interactive watch mode. See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+If you have any questions, suggestions, or feedback, please feel free to reach out to us at:
 
-### `npm run build`
+- Email: [rn26rituraj@gmail.com](mailto:rn26rituraj@gmail.com)
 
-Builds the app for production to the `build` folder.
+You can also connect with us on social media:
 
-It correctly bundles React in production mode and optimizes the build for the best performance. The build is minified and the filenames include the hashes.
+- Twitter: [@rn26rituraj](https://twitter.com/rn26rituraj)
+- LinkedIn: [enrituraj](https://www.linkedin.com/in/enrituraj/)
+
+We value your input and look forward to hearing from you.
