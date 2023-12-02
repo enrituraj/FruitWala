@@ -30,7 +30,7 @@ const Product = ({ total_card }) => {
             <BiSolidHeart />
           </div>
           <div className="product-content">
-            <img src={`/src/assets/img/product/${product.image}`} alt={product.name} className="product-image" />
+            <img src={product.image} alt={product.name} className="product-image" loading="lazy"/>
             <div className="product-details">
               <p className="price">${product.price} <sub>/kg</sub></p>
               <div>
