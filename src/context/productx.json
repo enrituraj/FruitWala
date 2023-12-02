@@ -1,0 +1,542 @@
+[
+  {
+    "id": 1,
+    "name": "Artichoke",
+    "price": 0.99,
+    "rating": 4.1,
+    "color": "#a7dd94",
+    "category": "fruit",
+    "liked": false,
+    "image": "Artichoke.png"
+  },
+  {
+    "id": 2,
+    "name": "Arugula",
+    "price": 0.99,
+    "rating": 4.5,
+    "color": "#aadba2",
+    "category": "fruit",
+    "liked": false,
+    "image": "Arugula.png"
+  },
+  {
+    "id": 3,
+    "name": "Asparagus",
+    "price": 0.99,
+    "rating": 4.1,
+    "color": "#b6b3bf",
+    "category": "fruit",
+    "liked": false,
+    "image": "Asparagus.png"
+  },
+  {
+    "id": 4,
+    "name": "Banana",
+    "price": 0.99,
+    "rating": 4.1,
+    "color": "#edd251",
+    "category": "fruit",
+    "liked": false,
+    "image": "Banana.png"
+  },
+  {
+    "id": 5,
+    "name": "Beet-root",
+    "price": 0.99,
+    "rating": 4.1,
+    "color": "#f0728b",
+    "category": "fruit",
+    "liked": false,
+    "image": "Beet-root.png"
+  },
+  {
+    "id": 6,
+    "name": "Black-salsify",
+    "price": 0.99,
+    "rating": 4.1,
+    "color": "#e9c886",
+    "category": "fruit",
+    "liked": false,
+    "image": "Black-salsify.png"
+  },
+  {
+    "id": 7,
+    "name": "brinjal",
+    "price": 0.99,
+    "rating": 4.1,
+    "color": "#b6b3bf",
+    "category": "fruit",
+    "liked": false,
+    "image": "brinjal.png"
+  },
+  {
+    "id": 8,
+    "name": "Broccoli",
+    "price": 0.99,
+    "rating": 4.1,
+    "color": "#94cf7d",
+    "category": "fruit",
+    "liked": false,
+    "image": "Broccoli.png"
+  },
+  {
+    "id": 9,
+    "name": "Brussel-sprouts",
+    "price": 0.99,
+    "rating": 4.1,
+    "color": "#add76c",
+    "category": "fruit",
+    "liked": false,
+    "image": "Brussel-sprouts.png"
+  },
+  {
+    "id": 10,
+    "name": "cabbage",
+    "price": 0.99,
+    "rating": 4.1,
+    "color": "#b0c972",
+    "category": "fruit",
+    "liked": false,
+    "image": "cabbage.png"
+  },
+  {
+    "id": 11,
+    "name": "Carrot",
+    "price": 0.99,
+    "rating": 4.1,
+    "color": "#f7b18c",
+    "category": "fruit",
+    "liked": false,
+    "image": "Carrot.png"
+  },
+  {
+    "id": 12,
+    "name": "Cauliflower",
+    "price": 0.99,
+    "rating": 4.1,
+    "color": "#a3ddd6",
+    "category": "fruit",
+    "liked": false,
+    "image": "Cauliflower.png"
+  },
+  {
+    "id": 13,
+    "name": "Celeraic",
+    "price": 0.99,
+    "rating": 4.1,
+    "color": "#e3b984",
+    "category": "fruit",
+    "liked": false,
+    "image": "Celeraic.png"
+  },
+  {
+    "id": 14,
+    "name": "Chicory",
+    "price": 0.99,
+    "rating": 4.1,
+    "color": "#eee28e",
+    "category": "fruit",
+    "liked": false,
+    "image": "Chicory.png"
+  },
+  {
+    "id": 15,
+    "name": "Chili",
+    "price": 0.99,
+    "rating": 4.1,
+    "color": "#f47775",
+    "category": "fruit",
+    "liked": false,
+    "image": "Chili.png"
+  },
+  {
+    "id": 16,
+    "name": "Chinese-cabbage",
+    "price": 0.99,
+    "rating": 4.1,
+    "color": "#97c764",
+    "category": "fruit",
+    "liked": false,
+    "image": "Chinese-cabbage.png"
+  },
+  {
+    "id": 17,
+    "name": "Chives",
+    "price": 0.99,
+    "rating": 4.1,
+    "color": "#86ab85",
+    "category": "fruit",
+    "liked": false,
+    "image": "Chives.png"
+  },
+  {
+    "id": 18,
+    "name": "Corn",
+    "price": 0.99,
+    "rating": 4.1,
+    "color": "#f0c861",
+    "category": "fruit",
+    "liked": false,
+    "image": "Corn.png"
+  },
+  {
+    "id": 19,
+    "name": "cucumber",
+    "price": 0.99,
+    "rating": 4.1,
+    "color": "#abc25c",
+    "category": "fruit",
+    "liked": false,
+    "image": "cucumber.png"
+  },
+  {
+    "id": 20,
+    "name": "Endive",
+    "price": 0.99,
+    "rating": 4.1,
+    "color": "#c3ce72",
+    "category": "fruit",
+    "liked": false,
+    "image": "Endive.png"
+  },
+  {
+    "id": 21,
+    "name": "Fennel",
+    "price": 0.99,
+    "rating": 4.1,
+    "color": "#e0cf77",
+    "category": "fruit",
+    "liked": false,
+    "image": "Fennel.png"
+  },
+  {
+    "id": 22,
+    "name": "French-beans",
+    "price": 0.99,
+    "rating": 4.1,
+    "color": "#9cda52",
+    "category": "fruit",
+    "liked": false,
+    "image": "French-beans.png"
+  },
+  {
+    "id": 23,
+    "name": "Garlic",
+    "price": 0.99,
+    "rating": 4.1,
+    "color": "#ddb69a",
+    "category": "fruit",
+    "liked": false,
+    "image": "Garlic.png"
+  },
+  {
+    "id": 24,
+    "name": "Hamburg-parsley",
+    "price": 0.99,
+    "rating": 4.1,
+    "color": "#ddb69a",
+    "category": "fruit",
+    "liked": false,
+    "image": "Hamburg-parsley.png"
+  },
+  {
+    "id": 25,
+    "name": "Iceberg-lettuce",
+    "price": 0.99,
+    "rating": 4.1,
+    "color": "#c8dc4d",
+    "category": "fruit",
+    "liked": false,
+    "image": "Iceberg-lettuce.png"
+  },
+  {
+    "id": 26,
+    "name": "Kale",
+    "price": 0.99,
+    "rating": 4.1,
+    "color": "#7ca659",
+    "category": "fruit",
+    "liked": false,
+    "image": "Kale.png"
+  },
+  {
+    "id": 27,
+    "name": "Kohlarbi",
+    "price": 0.99,
+    "rating": 4.1,
+    "color": "#929c69",
+    "category": "fruit",
+    "liked": false,
+    "image": "Kohlarbi.png"
+  },
+  {
+    "id": 28,
+    "name": "Lamb-lettuce",
+    "price": 0.99,
+    "rating": 4.1,
+    "color": "#86b56f",
+    "category": "fruit",
+    "liked": false,
+    "image": "Lamb-lettuce.png"
+  },
+  {
+    "id": 29,
+    "name": "Leaf-lettuce",
+    "price": 0.99,
+    "rating": 4.1,
+    "color": "#c0e08e",
+    "category": "fruit",
+    "liked": false,
+    "image": "Leaf-lettuce.png"
+  },
+  {
+    "id": 30,
+    "name": "Leek",
+    "price": 0.99,
+    "rating": 4.1,
+    "color": "#c0e08e",
+    "category": "fruit",
+    "liked": false,
+    "image": "Leek.png"
+  },
+  {
+    "id": 31,
+    "name": "Lettuce",
+    "price": 0.99,
+    "rating": 4.1,
+    "color": "#a7cc5b",
+    "category": "fruit",
+    "liked": false,
+    "image": "Lettuce.png"
+  },
+  {
+    "id": 32,
+    "name": "mushroom",
+    "price": 0.99,
+    "rating": 4.1,
+    "color": "#ddceb7",
+    "category": "fruit",
+    "liked": false,
+    "image": "mushroom.png"
+  },
+  {
+    "id": 33,
+    "name": "Okra",
+    "price": 0.99,
+    "rating": 4.1,
+    "color": "#99d47b",
+    "category": "fruit",
+    "liked": false,
+    "image": "Okra.png"
+  },
+  {
+    "id": 34,
+    "name": "Onion",
+    "price": 0.99,
+    "rating": 4.1,
+    "color": "#9b5366",
+    "category": "fruit",
+    "liked": false,
+    "image": "Onion.png"
+  },
+  {
+    "id": 35,
+    "name": "Paprica",
+    "price": 0.99,
+    "rating": 4.1,
+    "color": "#ce534a",
+    "category": "fruit",
+    "liked": false,
+    "image": "Paprica.png"
+  },
+  {
+    "id": 36,
+    "name": "Pole-beans",
+    "price": 0.99,
+    "rating": 4.1,
+    "color": "#6f8a44",
+    "category": "fruit",
+    "liked": false,
+    "image": "Pole-beans.png"
+  },
+  {
+    "id": 37,
+    "name": "Potatoes",
+    "price": 0.99,
+    "rating": 4.1,
+    "color": "#eca340",
+    "category": "fruit",
+    "liked": false,
+    "image": "Potatoes.png"
+  },
+  {
+    "id": 38,
+    "name": "pumpkin",
+    "price": 0.99,
+    "rating": 4.1,
+    "color": "#ffd574",
+    "category": "fruit",
+    "liked": false,
+    "image": "pumpkin.png"
+  },
+  {
+    "id": 39,
+    "name": "Radicchio",
+    "price": 0.99,
+    "rating": 4.1,
+    "color": "#c76d72",
+    "category": "fruit",
+    "liked": false,
+    "image": "Radicchio.png"
+  },
+  {
+    "id": 40,
+    "name": "radish",
+    "price": 0.99,
+    "rating": 4.1,
+    "color": "#bbb4a2",
+    "category": "fruit",
+    "liked": false,
+    "image": "radish.png"
+  },
+  {
+    "id": 41,
+    "name": "raphanus sativus",
+    "price": 0.99,
+    "rating": 4.1,
+    "color": "#c39797",
+    "category": "fruit",
+    "liked": false,
+    "image": "raphanus-sativus.png"
+  },
+  {
+    "id": 42,
+    "name": "Red-cabbage",
+    "price": 0.99,
+    "rating": 4.1,
+    "color": "#d79ec6",
+    "category": "fruit",
+    "liked": false,
+    "image": "Red-cabbage.png"
+  },
+  {
+    "id": 43,
+    "name": "Rhubarb",
+    "price": 0.99,
+    "rating": 4.1,
+    "color": "#d65c7e",
+    "category": "fruit",
+    "liked": false,
+    "image": "Rhubarb.png"
+  },
+  {
+    "id": 44,
+    "name": "Romanesco",
+    "price": 0.99,
+    "rating": 4.1,
+    "color": "#788f19",
+    "category": "fruit",
+    "liked": false,
+    "image": "Romanesco.png"
+  },
+  {
+    "id": 45,
+    "name": "Savoy-cabbage",
+    "price": 0.99,
+    "rating": 4.1,
+    "color": "#b0c972",
+    "category": "fruit",
+    "liked": false,
+    "image": "Savoy-cabbage.png"
+  },
+  {
+    "id": 46,
+    "name": "Spinach",
+    "price": 0.99,
+    "rating": 4.1,
+    "color": "#9bc361",
+    "category": "fruit",
+    "liked": false,
+    "image": "Spinach.png"
+  },
+  {
+    "id": 47,
+    "name": "Strawberry",
+    "price": 0.99,
+    "rating": 4.1,
+    "color": "#f8766b",
+    "category": "fruit",
+    "liked": false,
+    "image": "Strawberry.png"
+  },
+  {
+    "id": 48,
+    "name": "Sweet-potatoes",
+    "price": 0.99,
+    "rating": 4.1,
+    "color": "#ef8962",
+    "category": "fruit",
+    "liked": false,
+    "image": "Sweet-potatoes.png"
+  },
+  {
+    "id": 49,
+    "name": "Swiss-chard",
+    "price": 0.99,
+    "rating": 4.1,
+    "color": "#dac5c4",
+    "category": "fruit",
+    "liked": false,
+    "image": "Swiss-chard.png"
+  },
+  {
+    "id": 50,
+    "name": "Tomato",
+    "price": 0.99,
+    "rating": 4.1,
+    "color": "#f6795b",
+    "category": "fruit",
+    "liked": false,
+    "image": "Tomato.png"
+  },
+  {
+    "id": 51,
+    "name": "Turnip",
+    "price": 0.99,
+    "rating": 4.1,
+    "color": "#e18bba",
+    "category": "fruit",
+    "liked": false,
+    "image": "Turnip.png"
+  },
+  {
+    "id": 52,
+    "name": "watermelon",
+    "price": 0.99,
+    "rating": 4.1,
+    "color": "#ff8978",
+    "category": "fruit",
+    "liked": false,
+    "image": "watermelon.png"
+  },
+  {
+    "id": 53,
+    "name": "white-carrot",
+    "price": 0.99,
+    "rating": 4.1,
+    "color": "#c6a34f",
+    "category": "fruit",
+    "liked": false,
+    "image": "white-carrot.png"
+  },
+  {
+    "id": 54,
+    "name": "Zucchini",
+    "price": 0.99,
+    "rating": 4.1,
+    "color": "#98b37e",
+    "category": "fruit",
+    "liked": false,
+    "image": "Zucchini.png"
+  }
+]
