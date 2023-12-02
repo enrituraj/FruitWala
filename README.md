@@ -2,6 +2,9 @@
 
 Fruit Wala is a React project that allows users to explore and purchase a variety of fruits and vegetables online.
 
+![Fruit Wala web view](https://i.ibb.co/9mXvDdY/Screenshot-136.png)
+
+
 ## Features
 
 - View a list of fruits and vegetables with details such as name, price, rating, and category.
