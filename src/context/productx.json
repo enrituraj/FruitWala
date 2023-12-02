@@ -5,9 +5,9 @@
     "price": 0.99,
     "rating": 4.1,
     "color": "#a7dd94",
-    "category": "fruit",
+    "category": "vegetable",
     "liked": false,
-    "image": "Artichoke.png"
+    "image": "https://i.ibb.co/qMCgSVp/Artichoke.png"
   },
   {
     "id": 2,
@@ -15,9 +15,9 @@
     "price": 0.99,
     "rating": 4.5,
     "color": "#aadba2",
-    "category": "fruit",
+    "category": "vegetable",
     "liked": false,
-    "image": "Arugula.png"
+    "image": "https://i.ibb.co/89jTkBq/Arugula.png"
   },
   {
     "id": 3,
@@ -25,9 +25,9 @@
     "price": 0.99,
     "rating": 4.1,
     "color": "#b6b3bf",
-    "category": "fruit",
+    "category": "vegetable",
     "liked": false,
-    "image": "Asparagus.png"
+    "image": "https://i.ibb.co/hf1CQWP/Asparagus.png"
   },
   {
     "id": 4,
@@ -37,7 +37,7 @@
     "color": "#edd251",
     "category": "fruit",
     "liked": false,
-    "image": "Banana.png"
+    "image": "https://i.ibb.co/HdRWzyP/Banana.png"
   },
   {
     "id": 5,
@@ -47,7 +47,7 @@
     "color": "#f0728b",
     "category": "fruit",
     "liked": false,
-    "image": "Beet-root.png"
+    "image": "https://i.ibb.co/Hn93N4G/Beet-root.png"
   },
   {
     "id": 6,
@@ -55,9 +55,9 @@
     "price": 0.99,
     "rating": 4.1,
     "color": "#e9c886",
-    "category": "fruit",
+    "category": "vegetable",
     "liked": false,
-    "image": "Black-salsify.png"
+    "image": "https://i.ibb.co/dDh2zkY/Black-salsify.png"
   },
   {
     "id": 7,
@@ -65,9 +65,9 @@
     "price": 0.99,
     "rating": 4.1,
     "color": "#b6b3bf",
-    "category": "fruit",
+    "category": "vegetable",
     "liked": false,
-    "image": "brinjal.png"
+    "image": "https://i.ibb.co/VSmGn12/brinjal.png"
   },
   {
     "id": 8,
@@ -75,9 +75,9 @@
     "price": 0.99,
     "rating": 4.1,
     "color": "#94cf7d",
-    "category": "fruit",
+    "category": "vegetable",
     "liked": false,
-    "image": "Broccoli.png"
+    "image": "https://i.ibb.co/gtSMsqS/Broccoli.png"
   },
   {
     "id": 9,
@@ -85,9 +85,9 @@
     "price": 0.99,
     "rating": 4.1,
     "color": "#add76c",
-    "category": "fruit",
+    "category": "vegetable",
     "liked": false,
-    "image": "Brussel-sprouts.png"
+    "image": "https://i.ibb.co/hBkGdRC/Brussel-sprouts.png"
   },
   {
     "id": 10,
@@ -95,9 +95,9 @@
     "price": 0.99,
     "rating": 4.1,
     "color": "#b0c972",
-    "category": "fruit",
+    "category": "vegetable",
     "liked": false,
-    "image": "cabbage.png"
+    "image": "https://i.ibb.co/HFcDjDx/cabbage.png"
   },
   {
     "id": 11,
@@ -107,7 +107,7 @@
     "color": "#f7b18c",
     "category": "fruit",
     "liked": false,
-    "image": "Carrot.png"
+    "image": "https://i.ibb.co/p18Kp0D/Carrot.png"
   },
   {
     "id": 12,
@@ -115,9 +115,9 @@
     "price": 0.99,
     "rating": 4.1,
     "color": "#a3ddd6",
-    "category": "fruit",
+    "category": "vegetable",
     "liked": false,
-    "image": "Cauliflower.png"
+    "image": "https://i.ibb.co/hB3NsZJ/Cauliflower.png"
   },
   {
     "id": 13,
@@ -125,9 +125,9 @@
     "price": 0.99,
     "rating": 4.1,
     "color": "#e3b984",
-    "category": "fruit",
+    "category": "vegetable",
     "liked": false,
-    "image": "Celeraic.png"
+    "image": "https://i.ibb.co/KNDWJr8/Celeraic.png"
   },
   {
     "id": 14,
@@ -135,9 +135,9 @@
     "price": 0.99,
     "rating": 4.1,
     "color": "#eee28e",
-    "category": "fruit",
+    "category": "vegetable",
     "liked": false,
-    "image": "Chicory.png"
+    "image": "https://i.ibb.co/XXNCZpw/Chicory.png"
   },
   {
     "id": 15,
@@ -145,9 +145,9 @@
     "price": 0.99,
     "rating": 4.1,
     "color": "#f47775",
-    "category": "fruit",
+    "category": "vegetable",
     "liked": false,
-    "image": "Chili.png"
+    "image": "https://i.ibb.co/2hJm0F0/Chili.png"
   },
   {
     "id": 16,
@@ -155,9 +155,9 @@
     "price": 0.99,
     "rating": 4.1,
     "color": "#97c764",
-    "category": "fruit",
+    "category": "vegetable",
     "liked": false,
-    "image": "Chinese-cabbage.png"
+    "image": "https://i.ibb.co/ZL3gFcv/Chinese-cabbage.png"
   },
   {
     "id": 17,
@@ -165,9 +165,9 @@
     "price": 0.99,
     "rating": 4.1,
     "color": "#86ab85",
-    "category": "fruit",
+    "category": "vegetable",
     "liked": false,
-    "image": "Chives.png"
+    "image": "https://i.ibb.co/L8RLfp9/Chives.png"
   },
   {
     "id": 18,
@@ -177,7 +177,7 @@
     "color": "#f0c861",
     "category": "fruit",
     "liked": false,
-    "image": "Corn.png"
+    "image": "https://i.ibb.co/n7Kdpzh/Corn.png"
   },
   {
     "id": 19,
@@ -185,9 +185,9 @@
     "price": 0.99,
     "rating": 4.1,
     "color": "#abc25c",
-    "category": "fruit",
+    "category": "vegetable",
     "liked": false,
-    "image": "cucumber.png"
+    "image": "https://i.ibb.co/SrXFqfR/cucumber.png"
   },
   {
     "id": 20,
@@ -195,9 +195,9 @@
     "price": 0.99,
     "rating": 4.1,
     "color": "#c3ce72",
-    "category": "fruit",
+    "category": "vegetable",
     "liked": false,
-    "image": "Endive.png"
+    "image": "https://i.ibb.co/d569KTb/Endive.png"
   },
   {
     "id": 21,
@@ -205,9 +205,9 @@
     "price": 0.99,
     "rating": 4.1,
     "color": "#e0cf77",
-    "category": "fruit",
+    "category": "vegetable",
     "liked": false,
-    "image": "Fennel.png"
+    "image": "https://i.ibb.co/8rGz91N/Fennel.png"
   },
   {
     "id": 22,
@@ -215,9 +215,9 @@
     "price": 0.99,
     "rating": 4.1,
     "color": "#9cda52",
-    "category": "fruit",
+    "category": "vegetable",
     "liked": false,
-    "image": "French-beans.png"
+    "image": "https://i.ibb.co/0r3d9dS/French-beans.png"
   },
   {
     "id": 23,
@@ -225,9 +225,9 @@
     "price": 0.99,
     "rating": 4.1,
     "color": "#ddb69a",
-    "category": "fruit",
+    "category": "vegetable",
     "liked": false,
-    "image": "Garlic.png"
+    "image": "https://i.ibb.co/hWGXSjm/Garlic.png"
   },
   {
     "id": 24,
@@ -235,9 +235,9 @@
     "price": 0.99,
     "rating": 4.1,
     "color": "#ddb69a",
-    "category": "fruit",
+    "category": "vegetable",
     "liked": false,
-    "image": "Hamburg-parsley.png"
+    "image": "https://i.ibb.co/kHcB724/Hamburg-parsley.png"
   },
   {
     "id": 25,
@@ -245,9 +245,9 @@
     "price": 0.99,
     "rating": 4.1,
     "color": "#c8dc4d",
-    "category": "fruit",
+    "category": "vegetable",
     "liked": false,
-    "image": "Iceberg-lettuce.png"
+    "image": "https://i.ibb.co/ZV74XDx/Iceberg-lettuce.png"
   },
   {
     "id": 26,
@@ -255,9 +255,9 @@
     "price": 0.99,
     "rating": 4.1,
     "color": "#7ca659",
-    "category": "fruit",
+    "category": "vegetable",
     "liked": false,
-    "image": "Kale.png"
+    "image": "https://i.ibb.co/F5vVjXL/Kale.png"
   },
   {
     "id": 27,
@@ -265,9 +265,9 @@
     "price": 0.99,
     "rating": 4.1,
     "color": "#929c69",
-    "category": "fruit",
+    "category": "vegetable",
     "liked": false,
-    "image": "Kohlarbi.png"
+    "image": "https://i.ibb.co/fNYmKzK/Kohlarbi.png"
   },
   {
     "id": 28,
@@ -275,9 +275,9 @@
     "price": 0.99,
     "rating": 4.1,
     "color": "#86b56f",
-    "category": "fruit",
+    "category": "vegetable",
     "liked": false,
-    "image": "Lamb-lettuce.png"
+    "image": "https://i.ibb.co/HxmbQjw/Lamb-lettuce.png"
   },
   {
     "id": 29,
@@ -285,9 +285,9 @@
     "price": 0.99,
     "rating": 4.1,
     "color": "#c0e08e",
-    "category": "fruit",
+    "category": "vegetable",
     "liked": false,
-    "image": "Leaf-lettuce.png"
+    "image": "https://i.ibb.co/QrxLLBK/Leaf-lettuce.png"
   },
   {
     "id": 30,
@@ -295,9 +295,9 @@
     "price": 0.99,
     "rating": 4.1,
     "color": "#c0e08e",
-    "category": "fruit",
+    "category": "vegetable",
     "liked": false,
-    "image": "Leek.png"
+    "image": "https://i.ibb.co/jZNTtg2/Leek.png"
   },
   {
     "id": 31,
@@ -305,9 +305,9 @@
     "price": 0.99,
     "rating": 4.1,
     "color": "#a7cc5b",
-    "category": "fruit",
+    "category": "vegetable",
     "liked": false,
-    "image": "Lettuce.png"
+    "image": "https://i.ibb.co/wdfhyG6/Lettuce.png"
   },
   {
     "id": 32,
@@ -315,9 +315,9 @@
     "price": 0.99,
     "rating": 4.1,
     "color": "#ddceb7",
-    "category": "fruit",
+    "category": "vegetable",
     "liked": false,
-    "image": "mushroom.png"
+    "image": "https://i.ibb.co/bbDCw79/mushroom.png"
   },
   {
     "id": 33,
@@ -325,9 +325,9 @@
     "price": 0.99,
     "rating": 4.1,
     "color": "#99d47b",
-    "category": "fruit",
+    "category": "vegetable",
     "liked": false,
-    "image": "Okra.png"
+    "image": "https://i.ibb.co/6X6ksMX/Okra.png"
   },
   {
     "id": 34,
@@ -335,9 +335,9 @@
     "price": 0.99,
     "rating": 4.1,
     "color": "#9b5366",
-    "category": "fruit",
+    "category": "vegetable",
     "liked": false,
-    "image": "Onion.png"
+    "image": "https://i.ibb.co/XZZV9CV/Onion.png"
   },
   {
     "id": 35,
@@ -345,9 +345,9 @@
     "price": 0.99,
     "rating": 4.1,
     "color": "#ce534a",
-    "category": "fruit",
+    "category": "vegetable",
     "liked": false,
-    "image": "Paprica.png"
+    "image": "https://i.ibb.co/0X6h0zF/Paprica.png"
   },
   {
     "id": 36,
@@ -355,9 +355,9 @@
     "price": 0.99,
     "rating": 4.1,
     "color": "#6f8a44",
-    "category": "fruit",
+    "category": "vegetable",
     "liked": false,
-    "image": "Pole-beans.png"
+    "image": "https://i.ibb.co/4tMb0BX/Pole-beans.png"
   },
   {
     "id": 37,
@@ -365,9 +365,9 @@
     "price": 0.99,
     "rating": 4.1,
     "color": "#eca340",
-    "category": "fruit",
+    "category": "vegetable",
     "liked": false,
-    "image": "Potatoes.png"
+    "image": "https://i.ibb.co/BfjGHf2/Potatoes.png"
   },
   {
     "id": 38,
@@ -375,9 +375,9 @@
     "price": 0.99,
     "rating": 4.1,
     "color": "#ffd574",
-    "category": "fruit",
+    "category": "vegetable",
     "liked": false,
-    "image": "pumpkin.png"
+    "image": "https://i.ibb.co/sQgXZqY/pumpkin.png"
   },
   {
     "id": 39,
@@ -385,9 +385,9 @@
     "price": 0.99,
     "rating": 4.1,
     "color": "#c76d72",
-    "category": "fruit",
+    "category": "vegetable",
     "liked": false,
-    "image": "Radicchio.png"
+    "image": "https://i.ibb.co/g7KY8wx/Radicchio.png"
   },
   {
     "id": 40,
@@ -395,9 +395,9 @@
     "price": 0.99,
     "rating": 4.1,
     "color": "#bbb4a2",
-    "category": "fruit",
+    "category": "vegetable",
     "liked": false,
-    "image": "radish.png"
+    "image": "https://i.ibb.co/V9Pmc9m/radish.png"
   },
   {
     "id": 41,
@@ -405,9 +405,9 @@
     "price": 0.99,
     "rating": 4.1,
     "color": "#c39797",
-    "category": "fruit",
+    "category": "vegetable",
     "liked": false,
-    "image": "raphanus-sativus.png"
+    "image": "https://i.ibb.co/0DMqNTj/raphanus-sativus.png"
   },
   {
     "id": 42,
@@ -415,9 +415,9 @@
     "price": 0.99,
     "rating": 4.1,
     "color": "#d79ec6",
-    "category": "fruit",
+    "category": "vegetable",
     "liked": false,
-    "image": "Red-cabbage.png"
+    "image": "https://i.ibb.co/7gYZ3vx/Red-cabbage.png"
   },
   {
     "id": 43,
@@ -425,9 +425,9 @@
     "price": 0.99,
     "rating": 4.1,
     "color": "#d65c7e",
-    "category": "fruit",
+    "category": "vegetable",
     "liked": false,
-    "image": "Rhubarb.png"
+    "image": "https://i.ibb.co/kBTbJL3/Rhubarb.png"
   },
   {
     "id": 44,
@@ -435,9 +435,9 @@
     "price": 0.99,
     "rating": 4.1,
     "color": "#788f19",
-    "category": "fruit",
+    "category": "vegetable",
     "liked": false,
-    "image": "Romanesco.png"
+    "image": "https://i.ibb.co/g7Qzk6J/Romanesco.png"
   },
   {
     "id": 45,
@@ -445,9 +445,9 @@
     "price": 0.99,
     "rating": 4.1,
     "color": "#b0c972",
-    "category": "fruit",
+    "category": "vegetable",
     "liked": false,
-    "image": "Savoy-cabbage.png"
+    "image": "https://i.ibb.co/DWsbZy1/Savoy-cabbage.png"
   },
   {
     "id": 46,
@@ -455,9 +455,9 @@
     "price": 0.99,
     "rating": 4.1,
     "color": "#9bc361",
-    "category": "fruit",
+    "category": "vegetable",
     "liked": false,
-    "image": "Spinach.png"
+    "image": "https://i.ibb.co/cLZnczk/Spinach.png"
   },
   {
     "id": 47,
@@ -467,7 +467,7 @@
     "color": "#f8766b",
     "category": "fruit",
     "liked": false,
-    "image": "Strawberry.png"
+    "image": "https://i.ibb.co/gF4wRmZ/Strawberry.png"
   },
   {
     "id": 48,
@@ -477,7 +477,7 @@
     "color": "#ef8962",
     "category": "fruit",
     "liked": false,
-    "image": "Sweet-potatoes.png"
+    "image": "https://i.ibb.co/xKbksjV/Sweet-potatoes.png"
   },
   {
     "id": 49,
@@ -485,9 +485,9 @@
     "price": 0.99,
     "rating": 4.1,
     "color": "#dac5c4",
-    "category": "fruit",
+    "category": "vegetable",
     "liked": false,
-    "image": "Swiss-chard.png"
+    "image": "https://i.ibb.co/4TrfMyF/Swiss-chard.png"
   },
   {
     "id": 50,
@@ -495,9 +495,9 @@
     "price": 0.99,
     "rating": 4.1,
     "color": "#f6795b",
-    "category": "fruit",
+    "category": "vegetable",
     "liked": false,
-    "image": "Tomato.png"
+    "image": "https://i.ibb.co/3hWFTvd/Tomato.png"
   },
   {
     "id": 51,
@@ -505,9 +505,9 @@
     "price": 0.99,
     "rating": 4.1,
     "color": "#e18bba",
-    "category": "fruit",
+    "category": "vegetable",
     "liked": false,
-    "image": "Turnip.png"
+    "image": "https://i.ibb.co/VmTJX7Z/Turnip.png"
   },
   {
     "id": 52,
@@ -517,7 +517,7 @@
     "color": "#ff8978",
     "category": "fruit",
     "liked": false,
-    "image": "watermelon.png"
+    "image": "https://i.ibb.co/VMncpQK/watermelon.png"
   },
   {
     "id": 53,
@@ -527,7 +527,7 @@
     "color": "#c6a34f",
     "category": "fruit",
     "liked": false,
-    "image": "white-carrot.png"
+    "image": "https://i.ibb.co/0rh4xb8/white-carrot.png"
   },
   {
     "id": 54,
@@ -535,8 +535,8 @@
     "price": 0.99,
     "rating": 4.1,
     "color": "#98b37e",
-    "category": "fruit",
+    "category": "vegetable",
     "liked": false,
-    "image": "Zucchini.png"
+    "image": "https://i.ibb.co/BNk1BS6/Zucchini.png"
   }
 ]

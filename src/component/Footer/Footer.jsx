@@ -22,28 +22,28 @@ const Footer = () => {
             <ul className="sub_menu">
               <h3>Home</h3>
               <li><Link>Home</Link></li>
-              <li><Link>Home</Link></li>
-              <li><Link>Home</Link></li>
-              <li><Link>Home</Link></li>
+              <li><Link>About</Link></li>
+              <li><Link>Product</Link></li>
+              <li><Link>Contact</Link></li>
             </ul>
             <ul className="sub_menu">
-              <h3>about</h3>
-              <li><Link>Home</Link></li>
-              <li><Link>Home</Link></li>
-              <li><Link>Home</Link></li>
-              <li><Link>Home</Link></li>
+              <h3>About</h3>
+              <li><Link>Services</Link></li>
+              <li><Link>Features</Link></li>
+              <li><Link>Timeline</Link></li>
+              <li><Link>Sign Up</Link></li>
             </ul>
             <ul className="sub_menu">
-              <h3>work</h3>
-              <li><Link>Home</Link></li>
-              <li><Link>Home</Link></li>
-              <li><Link>Home</Link></li>
-              <li><Link>Home</Link></li>
+              <h3>Product</h3>
+              <li><Link>Fruits</Link></li>
+              <li><Link>Vegetables</Link></li>
+              <li><Link>Dry Fruits</Link></li>
+              <li><Link>Contact us</Link></li>
             </ul>
           </div>
         </div>
         <div className="footer_bottom">
-          <p>made by ritu raj</p>
+          <p>Made by ❤ Rituraj</p>
           <p>version 1.1.1</p>
         </div>
       </footer>

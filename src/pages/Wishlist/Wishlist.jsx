@@ -46,7 +46,7 @@ const Wishlist = () => {
                 <BiSolidHeart />
               </div>
               <div className="product-content">
-                <img src={`/src/assets/img/product/${product.image}`} alt={product.name} className="product-image" />
+                <img src={product.image} loading="lazy" alt={product.name} className="product-image" />
                 <div className="product-details">
                   <p className="price">${product.price} <sub>/kg</sub></p>
                   <div>
